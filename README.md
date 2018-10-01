@@ -1,12 +1,12 @@
-# Hexo Official Website
+# Hexo Site Oficial
 <!-- Markdown snippet -->
 [![Build Status](https://travis-ci.org/hexojs/site.svg?branch=master)](https://travis-ci.org/hexojs/site)
 
-The website for Hexo. You can see the generated files at [hexojs/hexojs.github.io](https://github.com/hexojs/hexojs.github.io) repository.
+O website do Hexo. Você pode ver os arquivos gerados em [hexojs/hexojs.github.io](https://github.com/hexojs/hexojs.github.io).
 
-## Getting started
+## Iniciando
 
-Install dependencies:
+Instale as dependências:
 
 ``` bash
 $ git clone https://github.com/hexojs/site.git
@@ -14,19 +14,19 @@ $ cd site
 $ npm install
 ```
 
-Generate:
+Gere os arquivos:
 
 ``` bash
 $ hexo generate
 ```
 
-Run server:
+Inicie o servidor:
 
 ``` bash
 $ hexo server
 ```
 
-## Contributors
+## Aqueles que contribuíram
 
 - English - [tommy351](https://github.com/tommy351)
 - 正體中文 - [tommy351](https://github.com/tommy351)
@@ -36,7 +36,7 @@ $ hexo server
 - Deutschland - [philippnagel](https://github.com/philippnagel)
 - Portuguese (Brazilian) - [lucianobarauna](https://github.com/lucianobarauna), [ramonsantos](https://github.com/ramonsantos), [MathMesquita](https://github.com/MathMesquita), [pedrorezende](https://github.com/pedrorezende), [gregoryfm](https://github.com/gregoryfm)
 
-## License
+## Licença
 
 [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
